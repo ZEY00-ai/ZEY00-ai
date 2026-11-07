@@ -1,160 +1,93 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Daffa%20Abrar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend-Focused%20Web%20Developer%20%E2%80%A2%20Sistem%20Informasi&descSize=18&descAlignY=62&descColor=a78bfa" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a1128&height=300&section=header&text=Daffa%20Abrar&fontSize=76&fontColor=ffffff&fontAlignY=38&desc=Mahasiswa%20Sistem%20Informasi%20dan%20Web%20Developer&descSize=22&descColor=a5c8ff&descAlignY=62&animation=fadeIn" alt="header" />
 
 <a href="https://daffaabrar.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=70%25+Backend+%7C+30%25+Frontend;Membangun+aplikasi+web+yang+rapi%2C+cepat%2C+berguna;PHP+%C2%B7+Laravel+%C2%B7+MySQL+%C2%B7+CodeIgniter+4;Lebih+betah+ngurusin+arsitektur+data+%26+alur+sistem+%F0%9F%9B%A0%EF%B8%8F" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=3200&pause=900&color=A5C8FF&background=0A1128&center=true&vCenter=true&width=680&height=50&lines=Membangun+aplikasi+web+yang+rapi%2C+cepat%2C+dan+berguna.;70%25+Backend+%C2%B7+30%25+Frontend;PHP+%C2%B7+Laravel+%C2%B7+MySQL+%C2%B7+CodeIgniter+4" alt="typing" />
 </a>
 
 <br/><br/>
 
-<a href="https://daffaabrar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-daffaabrar.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/daffa-abrar-77bb29323/"><img src="https://img.shields.io/badge/LinkedIn-Daffa_Abrar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:daffaabrar630@gmail.com"><img src="https://img.shields.io/badge/Gmail-daffaabrar630-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://daffaabrar.vercel.app/"><img src="https://img.shields.io/badge/LIHAT%20PORTFOLIO%20%E2%86%98-a5c8ff?style=for-the-badge&logoColor=0a1128" alt="Portfolio" /></a>
+<a href="https://daffaabrar.vercel.app/cv-daffa-abrar.pdf"><img src="https://img.shields.io/badge/CV%20%E2%86%97-a5c8ff?style=for-the-badge&logoColor=0a1128" alt="CV" /></a>
+<a href="https://www.linkedin.com/in/daffa-abrar-77bb29323/"><img src="https://img.shields.io/badge/LINKEDIN%20%E2%86%97-a5c8ff?style=for-the-badge&logo=linkedin&logoColor=0a1128" alt="LinkedIn" /></a>
+<a href="mailto:daffaabrar630@gmail.com"><img src="https://img.shields.io/badge/EMAIL%20%E2%86%97-a5c8ff?style=for-the-badge&logo=gmail&logoColor=0a1128" alt="Email" /></a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ZEY00-ai&label=Profile+Views&color=7c3aed&style=flat-square" alt="views" />
-<img src="https://img.shields.io/github/followers/ZEY00-ai?label=Followers&style=flat-square&color=a78bfa&logo=github" alt="followers" />
-<img src="https://img.shields.io/github/stars/ZEY00-ai?label=Stars&style=flat-square&color=c4b5fd&logo=github" alt="stars" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=a5c8ff&height=2" width="100%" alt="" />
 
 </div>
 
 <br/>
 
-## 👨‍💻 Tentang Saya
+### `01` &nbsp;TENTANG SAYA
 
-```php
-<?php
+> **Halo, saya Daffa Abrar** 👋
 
-final class DaffaAbrar
-{
-    public const ROLE    = 'Mahasiswa Sistem Informasi & Web Developer';
-    public const KAMPUS  = 'Politeknik Negeri Padang (2024 – sekarang)';
-    public const LOKASI  = 'Agam, Sumatera Barat 🇮🇩';
+Formula harian saya: **70% backend, 30% frontend**, bantuan prompt AI pas logic mulai buntu, dan sisanya ahli memanfaatkan waktu rebahan secara maksimal.
 
-    public array $formulaHarian = [
-        'backend'   => '70%',
-        'frontend'  => '30%',
-        'ai_bantu'  => 'pas logic mulai buntu 🤖',
-        'rebahan'   => 'dimanfaatkan secara maksimal 😴',
-    ];
+Sebagai penikmat software development, saya lebih betah ngurusin **arsitektur data dan alur sistem** di belakang layar, tapi tetap memastikan visualnya clean dan enak dilihat.
 
-    public function fokus(): string
-    {
-        return 'Arsitektur data & alur sistem di balik layar, '
-             . 'tapi visualnya tetap clean dan enak dilihat.';
-    }
-}
+```text
+BERBASIS DI   Kecamatan Tilatang Kamang, Kabupaten Agam, Sumatera Barat, Indonesia
+KULIAH        Politeknik Negeri Padang · Sistem Informasi · 2024 – sekarang
+DI LUAR KULIAH  Bermain game · beberapa olahraga
 ```
 
 <br/>
 
-## ⚖️ Komposisi Kerja
+### `02` &nbsp;PORSI NGODING
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'pie1':'#a5c8ff','pie2':'#334a7a','pieStrokeColor':'#0a1128','pieOuterStrokeColor':'#0a1128','pieTitleTextColor':'#a5c8ff','pieSectionTextColor':'#0a1128','pieLegendTextColor':'#a5c8ff','pieOpacity':'1'}}}%%
 pie showData
-    title Porsi Ngoding Saya
     "Backend" : 70
     "Frontend" : 30
 ```
 
-<div align="center">
+<br/>
 
-| Sisi | Porsi | Bar |
-|:--|:--:|:--|
-| 🛠️ **Backend** | **70%** | `██████████████░░░░░░` |
-| 🎨 **Frontend** | **30%** | `██████░░░░░░░░░░░░░░` |
+### `03` &nbsp;TECH STACK
 
-</div>
+**BACKEND** &nbsp;<sub>utama</sub>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" alt="backend" />
+<img src="https://img.shields.io/badge/CODEIGNITER%204-a5c8ff?style=for-the-badge&logo=codeigniter&logoColor=0a1128" alt="CI4" />
+
+**FRONTEND** &nbsp;<sub>secukupnya</sub>
+
+<img src="https://skillicons.dev/icons?i=vue,react&theme=dark" alt="frontend" />
+
+**LAINNYA**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode&theme=dark" alt="others" />
 
 <br/>
 
-## 🧰 Tech Stack
+### `04` &nbsp;DEVELOPER LOGS
 
-### ⚙️ Backend &nbsp;<sub>(utama)</sub>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" alt="backend" />
-  <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CI4" />
-</p>
-
-### 🎨 Frontend &nbsp;<sub>(secukupnya)</sub>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,react&theme=dark" alt="frontend" />
-  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia" />
-</p>
-
-### 📱 Lainnya
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode&theme=dark" alt="others" />
-</p>
+| № | PROJECT | DESKRIPSI | TECH | STATUS |
+|:-:|:--|:--|:--|:--|
+| `01` | [**KostHub**](https://github.com/ZEY00-ai/KostHub) | Sistem pengelolaan kost di suatu wilayah/daerah | `Laravel` `MySQL` `Vue` | Pribadi · 2026 · 🔧 On-going |
+| `02` | [**umkm.in**](https://github.com/ZEY00-ai/UMKM.in) | Pengelolaan beberapa UMKM dengan kasir dan owner dalam 1 akun | `Laravel` `MySQL` `Flutter` | Pribadi · 2026 · 🔧 On-going |
+| `03` | [**SIG**](https://github.com/ZEY00-ai/PBL) | Sistem pemetaan sekolah di Tanah Datar | `CI4` `MySQL` | Kuliah · 2025 · ✅ Selesai |
+| `04` | [**OMDB**](https://github.com/ZEY00-ai/OMDB_2A) | Sistem pencarian film berdasarkan OMDb | `Laravel` `MySQL` | Kuliah · 2025 · ✅ Selesai |
 
 <br/>
 
-## 🚀 Proyek Pilihan
+### `05` &nbsp;LANGKAH SELANJUTNYA
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏠 <a href="https://github.com/ZEY00-ai/KostHub">KostHub</a></h3>
-      <p>Sistem pengelolaan kost di suatu wilayah/daerah.</p>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vuedotjs&logoColor=white" />
-      <br/><sub>🔧 Pribadi · 2026 · On-going</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/ZEY00-ai/UMKM.in">UMKM.in</a></h3>
-      <p>Pengelolaan beberapa UMKM dengan kasir dan owner dalam satu akun.</p>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <br/><sub>🔧 Pribadi · 2026 · On-going</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗺️ <a href="https://github.com/ZEY00-ai/PBL">SIG Pemetaan Sekolah</a></h3>
-      <p>Sistem pemetaan sekolah di Kabupaten Tanah Datar.</p>
-      <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <br/><sub>🎓 Kuliah · 2025 · Selesai</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/ZEY00-ai/OMDB_2A">OMDB</a></h3>
-      <p>Sistem pencarian film berdasarkan OMDb API.</p>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <br/><sub>🎓 Kuliah · 2025 · Selesai</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## 🎮 Di Luar Ngoding
-
-- 🎮 Bermain game
-- ⚽ Beberapa olahraga
-- 🎓 Lagi fokus kuliah sambil bangun proyek pribadi
-
-<br/>
-
-## 📫 Mari Terhubung
-
-Selalu senang diajak diskusi pengerjaan proyek, atau sekadar sharing. Kirim pesan aja ya!
+Selalu senang diajak diskusi pengerjaan project, atau sekadar sharing. Kirim pesan aja ya!
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-7c3aed?style=for-the-badge)](https://daffaabrar.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daffa-abrar-77bb29323/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daffaabrar630@gmail.com)
+<a href="mailto:daffaabrar630@gmail.com"><img src="https://img.shields.io/badge/daffaabrar630%40gmail.com-a5c8ff?style=for-the-badge&logo=gmail&logoColor=0a1128" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/daffa-abrar-77bb29323/"><img src="https://img.shields.io/badge/TERHUBUNG%20DI%20LINKEDIN-a5c8ff?style=for-the-badge&logo=linkedin&logoColor=0a1128" alt="LinkedIn" /></a>
+<a href="https://daffaabrar.vercel.app/"><img src="https://img.shields.io/badge/BUKA%20PORTFOLIO-a5c8ff?style=for-the-badge&logoColor=0a1128" alt="Portfolio" /></a>
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a1128&height=100&section=footer&text=Design%20%C2%B7%20Code%20%C2%B7%20Learn&fontSize=22&fontColor=a5c8ff&fontAlignY=60" alt="footer" />
 
 </div>
