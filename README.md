@@ -135,21 +135,6 @@ pie showData
 
 <br/>
 
-## 📊 Statistik GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZEY00-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEY00-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&langs_count=6" alt="top langs" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZEY00-ai&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true" alt="activity" />
-
-</div>
-
-<br/>
-
 ## 🎮 Di Luar Ngoding
 
 - 🎮 Bermain game
